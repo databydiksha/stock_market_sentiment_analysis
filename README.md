@@ -1,4 +1,4 @@
-Stock Market Movement Prediction Using Sentiment Analysis
+**Stock Market Movement Prediction Using Sentiment Analysis**
 
 Overview:
 This project predicts stock market movement using sentiment analysis and Machine Learning techniques.
